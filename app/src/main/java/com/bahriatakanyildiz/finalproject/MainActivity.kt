@@ -88,7 +88,7 @@ class MainActivity : AppCompatActivity() {
 
                     }
                     -2 -> {
-                        Toast.makeText(this@MainActivity, "Time is up", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(this@MainActivity, "No Answer/No Point", Toast.LENGTH_SHORT).show()
 
                     }
                     else -> {
