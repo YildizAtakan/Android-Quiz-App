@@ -1,5 +1,6 @@
 # MIS49M-Quiz-App
 MIS 49M Final Project
+Bahri Atakan Yıldız
 
 BİLGİ YARIŞMASI
 Özellikler
