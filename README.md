@@ -1,10 +1,6 @@
 # MIS49M-Quiz-App
 
-MIS 49M Final Project
-
-Bahri Atakan Yıldız
-
-BİLGİ YARIŞMASI
+Final Project BİLGİ YARIŞMASI Bahri Atakan Yıldız
 
 Özellikler
 - Soru havuzundan rastgele soru
