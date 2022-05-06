@@ -1,7 +1,4 @@
-# MIS49M-Quiz-App
-Bahri Atakan Yıldız
-
-Final Project - Bilgi Yarışması 
+Kotlin ile Android Bilgi Yarışması Uygulaması
 
 Özellikler
 - Soru havuzundan rastgele soru
